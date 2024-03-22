@@ -6,4 +6,4 @@ Tha calcultor i sa quick ref to calculate the price of the bookd you borrow
 
 To use this calculator, cklick the calc buttom
 
-#Other things will follouw up
+#Other things will follouw up.
