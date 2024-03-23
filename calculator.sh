@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#This is go introduce a new concept known as "Merge Conflict"
 # This Function is used to perform addition
 addition() {
     echo "$1 + $2" | bc
