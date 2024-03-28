@@ -6,3 +6,7 @@ Our first lesson was Linux
 We used Ubuntu 22.04
 The second lesson was Shell scripting
 The third lesson is Git and GitHub
+<<<<<<< HEAD
+=======
+I am demontrating a new concept called "git stash"
+>>>>>>> feature-branch
