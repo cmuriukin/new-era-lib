@@ -53,3 +53,4 @@ esac
 
 echo "Result: $result"
 #EOF#randomstuff
+#successfully merged
