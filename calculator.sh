@@ -52,4 +52,4 @@ case $choice in
 esac
 
 echo "Result: $result"
-#EOF
+#EOF#randomstuff
